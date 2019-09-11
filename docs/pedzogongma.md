@@ -4,6 +4,8 @@
 
 # རྫོང་སར་དཔེ་མཛོད་བཀྲ་ཤིས་སྒོ་མང་གོང་མའི་དཔེ་ཀློག་སྒེའུ་ཁུང་།
 
+<br>
+
 <iframe allowfullscreen src="https://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0032001&origin=website.com" width="100%" height="600"></iframe>
 
 
@@ -19,4 +21,4 @@ iframe ཀྱི་ཨང་བརྡ། གཤམ་དུ་བཀོད་པ
 
 # རྫོང་སར་དཔེ་མཛོད་བཀྲ་ཤིས་སྒོ་མང་གོང་མའི་ངོ་སྤྲོད།
 
-ངོ་སྤྲོད་འབྲོ་དགོས།
+ངོ་སྤྲོད་འབྲི་དགོས།
